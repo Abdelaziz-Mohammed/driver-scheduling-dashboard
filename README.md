@@ -12,17 +12,25 @@ A React frontend application (Vite) for managing drivers, routes and their assig
 
 ![Home Page Screenshot](./public/thumbnail-1.jpeg)
 
+![Home Page Dark Screenshot](./public/thumbnail-1-dark.jpeg)
+
 **Add New Driver Page:**
 
 ![Add New Driver Screenshot](./public/thumbnail-2.jpeg)
+
+![Add New Driver Dark Screenshot](./public/thumbnail-2-dark.jpeg)
 
 **Add New Route Page:**
 
 ![Add New Route Screenshot](./public/thumbnail-3.jpeg)
 
+![Add New Route Dark Screenshot](./public/thumbnail-3-dark.jpeg)
+
 **Dashboard Page:**
 
 ![Dashboard Screenshot](./public/thumbnail-4.jpeg)
+
+![Dashboard Dark Screenshot](./public/thumbnail-4-dark.jpeg)
 
 ## Features
 
