@@ -4,20 +4,24 @@ A React frontend application (Vite) for managing drivers, routes and their assig
 
 ## Live Demo
 
-[View Live Demo](https://your-live-demo-link.com)
+[View Live Demo - Driver Scheduling Dashboard](https://driver-scheduling-dashboard-delta.vercel.app/)
 
 ## Showcase
 
-Home Page:
+**Home Page:**
+
 ![Home Page Screenshot](./public/thumbnail-1.jpeg)
 
-Add New Driver Page:
+**Add New Driver Page:**
+
 ![Add New Driver Screenshot](./public/thumbnail-2.jpeg)
 
-Add New Route Page:
+**Add New Route Page:**
+
 ![Add New Route Screenshot](./public/thumbnail-3.jpeg)
 
-Dashboard Page:
+**Dashboard Page:**
+
 ![Dashboard Screenshot](./public/thumbnail-4.jpeg)
 
 ## Features
